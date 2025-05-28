@@ -75,7 +75,7 @@ const Hero = () => {
             <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full gradient-peach p-2">
               <div className="w-full h-full rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center">
                 <img
-                  src="https://i.ibb.co/kgXjH5L"
+                  src="https://i.ibb.co/MD7r2ZzG/denv.jpg"
                   alt="Jay Denver Espiritu"
                   className="w-72 h-72 lg:w-80 lg:h-80 rounded-full object-cover"
                 />
